@@ -1,0 +1,34 @@
+_repo: Frederick-DouglassA-Biography_10986
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesnutt, Charles W. (Charles Waddell)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '252'
+    url: http://www.gutenberg.org/2009/agents/252
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
+description: ''
+gutenberg_bookshelf:
+- African American Writers
+- Biographies
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Abolitionists -- United States -- Biography'
+- !lcsh 'African American abolitionists -- Biography'
+- !lcsh 'Antislavery movements -- United States -- History -- 19th century'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Douglass, Frederick, 1818-1895'
+- GITenberg
+title: 'Frederick Douglass
+
+  A Biography'
+url: http://www.gutenberg.org/ebooks/10986
